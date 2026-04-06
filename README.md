@@ -24,3 +24,8 @@ Hello-Git-World/
 
 ## 🙋‍♂️ Author
 Debabrata Dey
+
+## ▶️ How to Run
+
+```bash
+python hello.py
