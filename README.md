@@ -25,10 +25,14 @@ Hello-Git-World/
 - Learn branching and pull requests
 - Upload a real project
 
-## 🙋‍♂️ Author
-Debabrata Dey
+- ## ⚙️ Features
+- Interactive CLI menu
+- User greeting system
+- Simple calculator (Add, Subtract, Multiply, Divide)
 
 ## ▶️ How to Run
-
 ```bash
 python hello.py
+
+## 🙋‍♂️ Author
+Debabrata Dey
