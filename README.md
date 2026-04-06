@@ -25,6 +25,9 @@ Hello-Git-World/
 - Learn branching and pull requests
 - Upload a real project
 
+## 🙋‍♂️ Author
+Debabrata Dey
+
 - ## ⚙️ Features
 - Interactive CLI menu
 - User greeting system
@@ -34,5 +37,3 @@ Hello-Git-World/
 ```bash
 python hello.py
 
-## 🙋‍♂️ Author
-Debabrata Dey
