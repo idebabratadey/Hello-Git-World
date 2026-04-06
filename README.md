@@ -12,7 +12,9 @@ A simple beginner project to learn Git and GitHub workflow.
 ## 📂 Project Structure
 
 Hello-Git-World/
+├── .gitignore
 ├── README.md
+└── hello.py
 
 ## 🛠️ Tech Used
 - Git
