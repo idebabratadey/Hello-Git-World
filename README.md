@@ -1,4 +1,5 @@
 # Hello Git World 👋
+## 📸 Output
 
 A simple beginner project to learn Git and GitHub workflow.
 
